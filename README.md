@@ -1,4 +1,4 @@
-## Treinando YoloV8 - Vingadores - Desafio DIO
+## Treinando YoloV8 - Vingadores
 
 Finalizei um desafio da minha Formação Machine Learning Specialist
 
